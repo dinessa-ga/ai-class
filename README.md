@@ -1,5 +1,5 @@
 # Masterclass en Inteligencia Artificial
-Repositorio de la Masterclass en Inteligencia Artificial
+Repositorio de la Masterclass en Inteligencia Artificial. Revisando este proyecto del curso de Udemy.
 
 
 ## Bienvenido
